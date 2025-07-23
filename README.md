@@ -25,18 +25,21 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A4FCF?style=flat&logo=python&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 ![Linear Algebra](https://img.shields.io/badge/Linear--Algebra-Orange?style=flat&logo=mathworks&logoColor=white)
 ![Calculus](https://img.shields.io/badge/Calculus-Blue?style=flat&logo=python&logoColor=white)
 ![Probability & Stats](https://img.shields.io/badge/Probability--and--Statistics-FF6F00?style=flat&logo=chartdotjs&logoColor=white)
 
+
 ---
 
 ### 🏆 Achievements
 
-- 🥇 **First Rank** in TE (ENTC) with 9.57 SGPA  
+- 🥇 **First Rank** in TE (ENTC) with 9.67 SGPA  
 - 🧠 **GDSC Ideathon 2022** – Consolation Prize for “Ocean Monitoring System”  
-- 💻 **Techathon 2.0** – Built and Presented FeedingHands: A Web-Based Food Redistribution Platform  
+- 💻 **Techathon 2.0** – Built and Presented FeedingHands: A Web-Based Food Redistribution Platform
+- 📝 **Essay Writing (2nd Prize)** – NEON Committee, 2024 
 
 ---
 
