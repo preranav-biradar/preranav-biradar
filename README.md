@@ -8,7 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/preranav-biradar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:preranabiradar6@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-PDF-critical?style=for-the-badge&logo=adobe-acrobat-reader)](https://github.com/preranav-biradar/preranav-biradar/blob/main/Prerana%20resume.pdf)
 
 ---
 
