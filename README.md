@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prerana Biradar</h1>
 <h3 align="center">Aspiring Full Stack Developer | Data Analyst | Final-Year ENTC Student</h3>
 
+<p align="center"><em>🎯 Objective:To build scalable, accessible, and user-centric web solutions by blending open-source technologies, full-stack development, and data-driven design — while continuously contributing to meaningful projects that make a real-world impact.</em></p>
+
 ---
 
 ### 🌐 Connect with me
@@ -30,7 +32,6 @@
 ![Linear Algebra](https://img.shields.io/badge/Linear--Algebra-Orange?style=flat&logo=mathworks&logoColor=white)
 ![Calculus](https://img.shields.io/badge/Calculus-Blue?style=flat&logo=python&logoColor=white)
 ![Probability & Stats](https://img.shields.io/badge/Probability--and--Statistics-FF6F00?style=flat&logo=chartdotjs&logoColor=white)
-
 
 ---
 
@@ -67,4 +68,4 @@
 
 ---
 
-*“Code with purpose, learn with passion, build with heart.”*
+<p align="center"><em>“Code with purpose, learn with passion, build with heart.”</em></p>
