@@ -6,39 +6,41 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Girl coding gif"/>
 </p>
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Frontend:**
-<img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge"/> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+**Frontend:**  
+![HTML](https://img.shields.io/badge/-HTML-FF5722?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-2196F3?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Backend & Database:**
-<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge"/>
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**Data & Analytics:**
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-5A4FCF?logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557c?logo=python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge"/>
+**Data & Analytics:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-5A4FCF?style=flat&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Math & Stats:**
-<img src="https://img.shields.io/badge/Linear--Algebra-Orange?style=for-the-badge&logo=mathworks&logoColor=white"/>
-<img src="https://img.shields.io/badge/Calculus-Blue?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Probability--and--Statistics-FF6F00?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+**Math & Stats:**  
+![Linear Algebra](https://img.shields.io/badge/-Linear--Algebra-F57C00?style=flat&logo=mathworks&logoColor=white)
+![Calculus](https://img.shields.io/badge/-Calculus-0288D1?style=flat&logo=python&logoColor=white)
+![Probability & Statistics](https://img.shields.io/badge/-Probability--and--Statistics-8E24AA?style=flat&logo=chartdotjs&logoColor=white)
 
 ---
+
+
 
 ### 💡 What I Do
 
@@ -76,10 +78,11 @@
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge)](https://github.com/preranav-biradar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:preranabiradar6@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/PreranaBiradar/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/preranav-biradar)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:preranabiradar6@gmail.com)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/PreranaBiradar/)
+
 
 ---
 
