@@ -6,7 +6,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Girl coding gif"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preranav-biradar&theme=tokyonight" alt="Repo Language Pie" />
 </p>
 
 ---
