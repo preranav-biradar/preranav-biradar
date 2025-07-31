@@ -1,0 +1,21 @@
+name: GitHub Profile Metrics
+
+on:
+  schedule: [{ cron: "0 0 * * 0" }] # Every Sunday
+  push: { branches: ["main"] }
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📊 Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: activity
+          plugin_lines: yes
+          plugin_followup: yes
+          plugin_traffic: yes
+          plugin_isocalendar: yes
