@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana Biradar</h1>
 <h3 align="center">Aspiring Full Stack Developer | Data Analyst | Final-Year ENTC Student</h3>
 
-<p align="center"><em>🎯 Objective: To build scalable, accessible, and user-centric web solutions by blending open-source technologies, full-stack development, and data-driven design — while continuously contributing to meaningful projects that make a real-world impact.</em></p>
+<p align="center"><em>🎯 Objective: To create scalable, user-centric, and impactful web solutions by leveraging full-stack development, WordPress, and data-driven design — while contributing to projects that make a real-world difference.</em></p>
 
 ---
 
@@ -20,6 +20,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-2196F3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
 **Backend & Database:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
@@ -27,7 +28,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
 **Version Control & Collaboration:**  
-[Git]
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
@@ -46,19 +47,14 @@
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-**Mathematics & Statistics:**  
-![Linear Algebra](https://img.shields.io/badge/-Linear--Algebra-F57C00?style=flat&logo=mathworks&logoColor=white)
-![Calculus](https://img.shields.io/badge/-Calculus-0288D1?style=flat&logo=python&logoColor=white)
-![Probability & Statistics](https://img.shields.io/badge/-Probability--and--Statistics-8E24AA?style=flat&logo=chartdotjs&logoColor=white)
-
 ---
 
 ### 💡 What I Do
 
-- Develop full-stack web applications with clean and scalable architecture  
-- Analyze and visualize data using Python, Excel, Tableau & Power BI  
-- Participate in hackathons, build impactful projects, and solve real-world problems  
-- Learn actively and adapt to evolving tech trends
+- Build full-stack applications and **WordPress websites/plugins** with clean, scalable code  
+- Analyze and visualize data to derive actionable insights  
+- Participate in hackathons and projects that solve **real-world problems**  
+- Continuously learn and adapt to **emerging technologies**  
 
 ---
 
@@ -66,7 +62,7 @@
 
 - 🥇 **First Rank** in TE (ENTC) with 9.67 SGPA  
 - 🧠 **GDSC Ideathon 2022** – Consolation Prize for “Ocean Monitoring System”  
-- 💻 **Techathon 2.0** – Built and Presented FeedingHands: A Web-Based Food Redistribution Platform  
+- 💻 **Techathon 2.0** – Developed FeedingHands: Web-Based Food Redistribution Platform  
 - 📝 **Essay Writing (2nd Prize)** – NEON Committee, 2024  
 
 ---
@@ -98,8 +94,8 @@
 
 ### ✨ Fun Facts
 
-- 🎯 Currently learning: WordPress plugin development & DSA in Python  
-- 🔍 Passionate about using data + web to improve real lives  
+- 🎯 Currently learning: **WordPress plugin development & DSA in Python**  
+- 🔍 Passionate about using **data + web technologies** to improve real lives  
 - 🚀 Always building, always learning  
 
 ---
