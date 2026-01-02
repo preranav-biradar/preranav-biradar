@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prerana Biradar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;Data+Analyst;Final-Year+ENTC+Engineering+Student;Passionate+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Aspiring+Full+Stack+Developer;Data+Analyst;Final-Year+ENTC+Engineering+Student;Passionate+Problem+Solver" />
 </p>
 
 <p align="center">
@@ -28,22 +28,21 @@ To design and develop scalable, user-centric digital solutions using full-stack 
 ## 🛠️ Tech Stack
 
 ### 💻 Web Development
-**Frontend**
-  
+
+**Frontend**  
 ![HTML](https://img.shields.io/badge/HTML-FF5722?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2196F3?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-**Backend & Database**
-  
+**Backend & Database**  
 ![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
 
-**Version Control**
-  
+**Version Control**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -58,15 +57,15 @@ To design and develop scalable, user-centric digital solutions using full-stack 
 ![Seaborn](https://img.shields.io/badge/Seaborn-5A4FCF?style=flat)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
 ## 💡 What I Do
 - 🚀 Develop **full-stack & WordPress-based applications**
-- 📊 Analyze data to generate **actionable business insights**
-- 🧠 Actively participate in **hackathons & innovation challenges**
-- 🔁 Continuously upskill in **DSA, backend & modern frameworks**
+- 📊 Analyze data to generate **actionable insights**
+- 🧠 Participate in **hackathons & innovation challenges**
+- 🔁 Continuously upskill in **TypeScript, DSA & backend systems**
 
 ---
 
@@ -81,33 +80,28 @@ To design and develop scalable, user-centric digital solutions using full-stack 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=preranav-biradar&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=preranav-biradar&theme=radical" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=preranav-biradar&show_icons=true&hide_border=true&theme=default&cache_seconds=1800"
+    height="160"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranav-biradar&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranav-biradar&layout=compact&hide_border=true&theme=default"
+    height="140"
+  />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar&theme=radical&no-frame=true&row=1"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/preranav-biradar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:preranabiradar6@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/PreranaBiradar/)
-
----
-
-## 🐍 Contribution Graph
-![Snake animation](https://github.com/preranav-biradar/preranav-biradar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
