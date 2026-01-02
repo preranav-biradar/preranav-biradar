@@ -77,24 +77,6 @@ To design and develop scalable, user-centric digital solutions using full-stack 
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=preranav-biradar&show_icons=true&hide_border=true&theme=default&cache_seconds=1800"
-    height="160"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranav-biradar&layout=compact&hide_border=true&theme=default"
-    height="140"
-  />
-</p>
-
----
-
 
 ## 🌐 Connect With Me
 
