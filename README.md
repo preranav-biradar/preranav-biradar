@@ -70,7 +70,7 @@ To design and develop scalable, user-centric digital solutions using full-stack 
 ---
 
 ## 🏆 Achievements
-- 🥇 **First Rank – TE (ENTC)** | SGPA: **9.67**
+- 🥇 **First Rank – TE (ENTC)** | SGPA: **9.85**
 - 🧠 **GDSC Ideathon 2022** – Consolation Prize (*Ocean Monitoring System*)
 - 💻 **Techathon 2.0** – *FeedingHands* (Food Redistribution Platform)
 - ✍️ **Essay Writing – 2nd Prize**, NEON Committee (2024)
