@@ -44,7 +44,7 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 ## 💼 Experience
 
 ### MERN Stack Developer Intern | EY-GDS & AICTE
-📅 Oct 2025 – May 2026
+📅 Feb 2025 – Apr 2025
 
 - Developed scalable full-stack web applications
 - Built responsive React interfaces
@@ -52,7 +52,7 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 - Collaborated in Agile development environment
 
 ### Full Stack Developer Intern | FitFare
-📅 Feb 2025 – Apr 2025
+📅 Oct 2025 - May 2026
 
 - Contributed to gym management platform development
 - Worked on user, owner and admin modules
@@ -61,36 +61,51 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
-</p>
-
-### Backend
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,tailwind,wordpress" />
 </p>
 
-### Data Analytics
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 📊 Data Analytics & Visualization
 
 <p>
 <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
 <p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### Tools
+### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+</p>
+
+### 🔧 Other Skills
+
+<p>
+<img src="https://img.shields.io/badge/Embedded_Systems-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Visualization-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dashboard_Development-009688?style=for-the-badge"/>
 </p>
 
 ---
@@ -159,14 +174,13 @@ Responsive blogging platform built using WordPress with SEO optimization.
 
 ---
 
-## 🏅 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar&theme=algolia&no-frame=true&row=2&column=4" />
 
 </div>
-
 ---
 
 ## 📈 Contribution Graph
