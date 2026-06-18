@@ -104,8 +104,7 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 
 <p>
 <img src="https://img.shields.io/badge/Embedded_Systems-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Visualization-0A66C2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Dashboard_Development-009688?style=for-the-badge"/>
+
 </p>
 
 ---
@@ -178,7 +177,7 @@ Responsive blogging platform built using WordPress with SEO optimization.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar&theme=algolia&no-frame=true&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar" />
 
 </div>
 ---
@@ -207,7 +206,7 @@ Responsive blogging platform built using WordPress with SEO optimization.
 
 📧 **Email:** preranabiradar6@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/prerana-biradar-a5643b267
+💼 **LinkedIn:** [linkedin.com/in/prerana-biradar-a5643b267](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
 
 🌍 **Location:** Pune, India
 
