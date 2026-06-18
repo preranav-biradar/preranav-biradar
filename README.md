@@ -173,14 +173,6 @@ Responsive blogging platform built using WordPress with SEO optimization.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar" />
-
-</div>
----
 
 ## 📈 Contribution Graph
 
