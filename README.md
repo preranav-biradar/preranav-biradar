@@ -1,223 +1,206 @@
+<h1 align="center">Hi 👋, I'm Prerana Biradar</h1>
+
+<h3 align="center">
+Full Stack Developer • Data Analyst • IoT Enthusiast
+</h3>
+
 <div align="center">
 
-# Hi there, I'm Prerana Biradar 👋
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=🚀+MERN+Stack+Developer+%7C+2+Internships;📊+Data+Analyst+%7C+Python+%7C+Tableau+%7C+Power+BI;🏆+Department+Rank+1+%7C+GPA+9.85;💡+Building+Solutions+That+Create+Impact" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preranav-biradar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preranabiradar6@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/u/PreranaBiradar/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=preranav-biradar&label=Profile+Views&color=0e75b6&style=flat-square)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;Transforming+Data+into+Actionable+Insights;MERN+Stack+Developer;Aspiring+Software+Engineer+%26+Data+Analyst;Department+Rank+1+%7C+GPA+9.85" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-```javascript
-const prerana = {
-  role        : "Full Stack Developer & Data Analyst",
-  education   : "B.E. E&TC — Trinity College of Engineering, Pune",
-  gpa         : 9.85,            // Department Rank 1
-  internships : [
-                  "MERN Stack Dev Intern  @ EY-GDS & AICTE  (Oct 2025 – May 2026)",
-                  "Full Stack Dev Intern  @ FitFare          (Feb 2025 – Apr 2025)"
-                ],
-  techStack   : ["React", "Node.js", "Express", "MongoDB", "TypeScript", "Python"],
-  interests   : ["Web Dev", "Data Analytics", "IoT", "Hackathons"],
-  currently   : "Deepening skills in TypeScript + DSA + System Design",
-  openTo      : "Full-time SDE / Data Analyst roles"
-};
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prerana-biradar-a5643b267/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/preranav-biradar)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/PreranaBiradar/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preranabiradar6@gmail.com)
+
+</div>
 
 ---
 
-## 💼 Work Experience
+## 🚀 About Me
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+🎓 Final Year Electronics & Telecommunication Engineering Student
 
-**🏢 EY-GDS & AICTE**
-**MERN Stack Web Developer Intern**
-`Oct 2025 – May 2026`
+🥇 Department Rank 1 with **9.85 GPA**
 
-- Built full-stack **recipe-sharing platform** with scalable architecture
-- Integrated REST APIs and implemented responsive UI components
-- Collaborated with team to optimize performance and enhance features
+💻 Full Stack Developer with experience in **MERN Stack Development**
 
-</td>
-<td width="50%" valign="top">
+📊 Passionate about **Data Analytics, Business Intelligence and Visualization**
 
-**🏋️ FitFare**
-**Full Stack Developer Intern**
-`Feb 2025 – Apr 2025`
+🌱 Currently learning **TypeScript, Advanced React and System Design**
 
-- Developed **gym management platform** with user, owner & admin modules
-- Integrated AI-powered features into the product
-- Delivered platform enhancements and new feature implementations
+🏆 Completed internships in Full Stack Development and Enterprise Software Development
 
-</td>
-</tr>
-</table>
+🎯 Seeking opportunities as a **Software Engineer** or **Data Analyst**
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+### MERN Stack Developer Intern | EY-GDS & AICTE
+📅 Oct 2025 – May 2026
 
-**🍽️ Feeding Hands**
+- Developed scalable full-stack web applications
+- Built responsive React interfaces
+- Integrated REST APIs and backend services
+- Collaborated in Agile development environment
 
-Real-time food wastage reduction platform connecting restaurants → NGOs → volunteers with live donation tracking.
+### Full Stack Developer Intern | FitFare
+📅 Feb 2025 – Apr 2025
 
-`React` `Node.js` `MongoDB` `Express.js`
-
-</td>
-<td width="50%" valign="top">
-
-**🏪 Appa Aadat Dukan**
-
-Full-stack agriculture business dashboard with farmer transaction tracking, commission management & bill (patti) generation.
-
-`MERN Stack` `Role-based Auth` `Dashboard`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📝 WordPress Personal Blog**
-
-Responsive personal blog with CMS, SEO best practices, custom theme layouts and plugin integrations.
-
-`WordPress` `SEO` `CMS` `Plugins`
-
-</td>
-<td width="50%" valign="top">
-
-**🪖 Smart Helmet — IoT Safety System**
-
-IoT accident detection system using ESP32 + GPS + GSM that auto-sends SMS location alerts on crash detection.
-
-`ESP32` `NodeMCU` `Accelerometer` `GSM`
-
-</td>
-</tr>
-</table>
+- Contributed to gym management platform development
+- Worked on user, owner and admin modules
+- Assisted in AI-powered feature implementation
+- Enhanced website functionality and performance
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### Frontend
 
-**Frontend**
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+### Backend
 
-**Backend & Database**
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+### Data Analytics
 
-**Data & Analytics**
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
 
-**Tools & Platforms**
+### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-</div>
+---
+
+## 🌟 Featured Projects
+
+### 🍽️ Feeding Hands
+Food donation and redistribution platform connecting restaurants, NGOs and volunteers to reduce food wastage.
+
+**Tech:** React • Node.js • MongoDB • Express
+
+---
+
+### 🏪 Appa Aadat Dukan
+Agriculture business management platform with transaction tracking, bill generation and commission management.
+
+**Tech:** MERN Stack • Authentication • Dashboard
+
+---
+
+### 🪖 Smart Guard Helmet
+IoT-based accident detection and emergency alert system using GPS and GSM communication.
+
+**Tech:** ESP32 • GSM • GPS • Sensors
+
+---
+
+### 📝 Personal Blog Website
+Responsive blogging platform built using WordPress with SEO optimization.
+
+**Tech:** WordPress • SEO • CMS
 
 ---
 
 ## 🏆 Achievements
 
+🥇 Department Rank 1 for Three Consecutive Semesters
+
+🏅 InnovateYou Techathon 2.0 Participant
+
+🧠 GDSC Ideathon 2022 – Consolation Prize
+
+✍️ Essay Writing Competition – 2nd Prize
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-| | |
-|:---:|---|
-| 🥇 | **Department Rank 1** — Three consecutive semesters · TE Sem I: 9.57 → TE Sem II: 9.67 → BE Sem I: **9.85 GPA** |
-| 🏅 | **InnovateYou Techathon 2.0** (Feb 2025) — *Feeding Hands* food redistribution platform |
-| 🧠 | **GDSC Ideathon 2022** — Consolation Prize for *Ocean Monitoring System* |
-| ✍️ | **Essay Writing Competition** — 2nd Prize, NEON Committee (2024) |
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=preranav-biradar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranav-biradar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=preranav-biradar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=preranav-biradar&theme=tokyonight&hide_border=true" height="180" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preranav-biradar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+<img src="https://streak-stats.demolab.com?user=preranav-biradar&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<br/>
+---
+
+## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=preranav-biradar&theme=tokyo-night&hide_border=true&area=true&custom_title=Prerana's%20Contribution%20Graph" width="95%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=preranav-biradar&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=preranav-biradar&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
 
 ## 🎓 Education
 
-<div align="center">
+| Degree | Institute | Score |
+|----------|----------|----------|
+| B.E. E&TC | Trinity College of Engineering & Research, Pune | 9.85 GPA |
+| HSC | Shivaji Mahavidyalaya, Udgir | 70.67% |
+| SSC | Shyamlal Memorial High School, Udgir | 89.80% |
 
-| | Degree | Institution | Score | Year |
-|:---:|---|---|:---:|:---:|
-| 🎓 | B.E. Electronics & Telecommunication | Trinity College of Engineering & Research, Pune | **GPA 9.85** | 2022 – Present |
-| 📚 | 12th HSC | Shivaji Mahavidyalaya, Udgir | 70.67% | 2022 |
-| 📖 | 10th SSC | Shyamlal Memorial High School, Udgir | **89.80%** | 2020 |
+---
 
-</div>
+## 🤝 Let's Connect
+
+📧 **Email:** preranabiradar6@gmail.com
+
+💼 **LinkedIn:** linkedin.com/in/prerana-biradar-a5643b267
+
+🌍 **Location:** Pune, India
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
-
-*"Code with purpose. Learn with passion. Build with impact."*
-
-📬 [preranabiradar6@gmail.com](mailto:preranabiradar6@gmail.com) &nbsp;·&nbsp; 📍 Pune, India &nbsp;·&nbsp; 💼 Open to opportunities
-
-⭐ If you find my work interesting, feel free to **star** a repo or **connect** on LinkedIn!
+### ⭐ Transforming Data into Insights | Building Scalable Solutions
 
 </div>
