@@ -33,9 +33,9 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 
 📊 Passionate about **Data Analytics, Business Intelligence and Visualization**
 
-🌱 Currently learning **TypeScript, Advanced React and System Design**
+🌱 Currently learning **Ai**
 
-🏆 Completed internships in Full Stack Development and Enterprise Software Development
+🏆 Completed internships in Full Stack Development 
 
 🎯 Seeking opportunities as a **Software Engineer** or **Data Analyst**
 
