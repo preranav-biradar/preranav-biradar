@@ -109,36 +109,6 @@ Full Stack Developer • Data Analyst • IoT Enthusiast
 
 ---
 
-## 🌟 Featured Projects
-
-### 🍽️ Feeding Hands
-Food donation and redistribution platform connecting restaurants, NGOs and volunteers to reduce food wastage.
-
-**Tech:** React • Node.js • MongoDB • Express
-
----
-
-### 🏪 Appa Aadat Dukan
-Agriculture business management platform with transaction tracking, bill generation and commission management.
-
-**Tech:** MERN Stack • Authentication • Dashboard
-
----
-
-### 🪖 Smart Guard Helmet
-IoT-based accident detection and emergency alert system using GPS and GSM communication.
-
-**Tech:** ESP32 • GSM • GPS • Sensors
-
----
-
-### 📝 Personal Blog Website
-Responsive blogging platform built using WordPress with SEO optimization.
-
-**Tech:** WordPress • SEO • CMS
-
----
-
 ## 🏆 Achievements
 
 🥇 Department Rank 1 for Three Consecutive Semesters
@@ -173,16 +143,6 @@ Responsive blogging platform built using WordPress with SEO optimization.
 
 ---
 
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=preranav-biradar&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 ## 🎓 Education
 
